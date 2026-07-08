@@ -1,1 +1,2 @@
-Site WEb pour le cours Git de AJT
+Site Web AJT pour la formation Git
+
